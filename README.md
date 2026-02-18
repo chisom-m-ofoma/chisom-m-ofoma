@@ -16,7 +16,7 @@
 ## About Me 
 I am a business-thinking data analyst. With a background in operations, I work at the intersection of data, process, and business context. 
 
-I leverage this understanding through analysis (transforming complex, messy datasets) to surface insights that support better strategic decisions.
+I leverage this understanding through analysis (transforming complex, messy datasets) to surface insights that support strategic decision-making.
 
 My focus is on creating models and building data-informed strategies for sustainable business growth.
 
