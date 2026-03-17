@@ -16,7 +16,7 @@ When I am not transforming complex datasets into actionable insights, I enjoy wr
 ### Professional Traits 
 - Stakeholder communication, Proactive problem-solving, Self-motivated, Time zone flexibility (GMT/CST/EST)
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
+<!-- 🌐 Replace "your-username" with your actual GitHub username 
 #### [Check Out My Full Portfolio Website](https://chisom-m-ofoma.github.io/)
       
 <!--## My Project Overview
